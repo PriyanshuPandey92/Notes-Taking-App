@@ -1,2 +1,2 @@
 # Notes-Taking-App
-Showcasing Frontend Skills (Form Validations, State Management, Routing)
+Showcasing my Frontend Skills (Form Validations, State Management, Routing)
